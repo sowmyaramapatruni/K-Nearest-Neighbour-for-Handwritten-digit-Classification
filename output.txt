@@ -1,0 +1,2 @@
+Average accuracy is 97.300000 
+Average accuracy of class : 97.8723 95.3125 100 98.9011 98 94.7368 100 95.4128 99.0385 94.2308 
